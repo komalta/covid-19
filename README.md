@@ -1,20 +1,8 @@
 # covid-19
-Model for Covid 19 spread and inform city emergency services response to the spread
+Model for Covid 19 spread and inform city of San Jose emergency services respond to the spread
 
-Model Scope:
-- Understand the scope of the spread 
-- Understand city responses over time, space, and volume
-- Update scenarios and estimate probabilities of spread
-- Inform operational planning for the response using market demand calculations
-- Track impacts to staff (Eg:absenteeism) and inform when city would need to leverage mutual aid or other externalities
+Task 1 -
+Build a model for santa clara county data in the data folder that shows trajectory of the spread based on "tested" cases. Compare that curve with potential of spread comaparing with other cities around the world with similar population density
+Break down based on demograhics data
 
-Detail:
-- Track and inform overall patterns of cases broken down by age, demographics, etc. (Both detected and potentially detectable)
-- Indirect and non-linear effects of spread over time
-- Track impacts of city services on spread to staff and population?
-
-Data Sources:
-
-County of Santa Clara:
-https://data-sccphd.opendata.arcgis.com/search?groupIds=557f3bbe34054628b7eb3b8a57e9c292&sort=-modified
-
+Further tasks will be added as soon as data from city of San Jose is available around staffing of the city workers
