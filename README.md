@@ -1,5 +1,5 @@
 # covid-19
-Model for Covid 19 spread and inform city of San Jose emergency services respond to the spread
+Model for tracking Covid 19 spread and inform city of San Jose emergency services to respond accordingly
 
 Objective- After shelter in place took into affect, track and understand the spread and compare with other cities until testing ramps up. Once testing ramps up this model will become more accurate and can be used to inform the city of San Jose about the projections and actions city might be able to take and adjust their services accordingly.
 
