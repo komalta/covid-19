@@ -8,3 +8,8 @@ Build a prediction model for santa clara county for Covid19 spread using Santa C
 
 
 Further tasks will be added as soon as data from city of San Jose is available around staffing of the city workers
+
+#data_sources for up to date spread numbers
+https://github.com/CSSEGISandData/COVID-19 
+https://static.usafacts.org/public/data/covid-19/covid_confirmed_usafacts.csv?_ga=2.72010899.1889812509.1584893560-1748299744.1584893560
+
