@@ -1,10 +1,11 @@
-Following is the graph of number of cases and trend for country of Santa Clara:
-![SantaClaraCounty]()
+Covid-19 has been spreading rapidly in california and following is the graph of number of cases and trend for country of Santa Clara.
+Social ditancing was enforced on March 16 in this county, lets hope that effects of that measure will show up soon.
+![image](SantaClaraActual.PNG)
 
 
 
 # covid-19
-Model for tracking Covid 19 spread and inform city of San Jose emergency services to respond accordingly
+This project is for tracking Covid 19 spread and informing city of San Jose emergency services to respond accordingly
 
 Objective- After shelter in place took into affect, track and understand the spread and compare with other cities until testing ramps up. Once testing ramps up this model will become more accurate and can be used to inform the city of San Jose about the projections and actions city might be able to take and adjust their services accordingly.
 
