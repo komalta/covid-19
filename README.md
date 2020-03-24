@@ -1,4 +1,4 @@
-Covid-19 has been spreading rapidly in California and following is the graph of number of cases and trend for country of Santa Clara.
+Covid-19 has been spreading rapidly in California and following is the graph of number of cases and trend for Santa Clara county.
 Social ditancing was enforced on March 16 in this county, lets hope that effects of that measure will show up soon.
 ![image](SantaClaraActual.PNG)
 
