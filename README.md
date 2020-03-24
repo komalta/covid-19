@@ -1,3 +1,8 @@
+Following is the graph of number of cases and trend for country of Santa Clara:
+![SantaClaraCounty]()
+
+
+
 # covid-19
 Model for tracking Covid 19 spread and inform city of San Jose emergency services to respond accordingly
 
