@@ -19,3 +19,5 @@ Data for up to date spread numbers:
 https://github.com/CSSEGISandData/COVID-19 
 https://static.usafacts.org/public/data/covid-19/covid_confirmed_usafacts.csv?_ga=2.72010899.1889812509.1584893560-1748299744.1584893560
 
+Other Open Data for Santa Clara County:
+https://data-sccphd.opendata.arcgis.com/
